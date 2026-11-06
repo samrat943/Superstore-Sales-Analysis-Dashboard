@@ -3,8 +3,6 @@
 
 An interactive **Power BI Dashboard** developed to analyze Superstore sales, profit, quantity, discounts, product categories, customer segments, and geographical performance.
 
-This project was completed as part of the **Elevate Labs Data Analyst Internship — Task 2: Data Visualization and Storytelling**.
-
 ---
 
 ## 📸 Dashboard Preview
